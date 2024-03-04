@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @danielhuynh0
-- 👀 I’m interested in computer science...
-- 🌱 I’m currently learning artificial intelligence and machine learning algorithms, and Arduino to work with LiDAR.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computer science and machine learning!
+- 🌱 I’m currently learning artificial intelligence and machine learning algorithms, and Arduino to work with LiDAR-based sensor devices.
 
 <!---
 danielhuynh0/danielhuynh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
